@@ -1,4 +1,4 @@
-package org.example.example3.FailSafevsFailFastIterator.Main;
+package org.example.example3.FailSafevsFailFastIterator;
 
 import java.util.HashMap;
 import java.util.Iterator;
